@@ -2,8 +2,8 @@
 
 ## 测试环境
 
-![IINA 版本](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.59.09.png)
-![macOS 版本](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.59.34.png)
+![IINA 版本](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.59.09.png)
+![macOS 版本](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.59.34.png)
 
 ## Aegisub 字体收集器
 
@@ -13,53 +13,53 @@
 
 ***DFGKanTeiRyu-XB + 方正少儿_GBK***
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.06.39.png)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.06.39.png)
 
 ***DFGKanTeiRyu-XB + 方正少儿_GBK PostScript***
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.06.58.png)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.06.58.png)
 
 ***FOT-Slump Std DB + 方正准圆_GBK***
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.07.25_w.webp)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.07.25_w.webp)
 
 ***FOT-Slump Std DB + 方正准圆_GBK PostScript***
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.07.56.jpg)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.07.56.jpg)
 
 ***FOT-KafuNagomi Std B + 文鼎奈谷米POP体_B***　*(文件名中 FOT-Slump Std DB 应为 FOT-KafuNagomi Std B)*
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.08.16.jpg)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.08.16.jpg)
 
 ***FOT-KafuNagomi Std B + 文鼎奈谷米POP体_B PostScript*** *(文件名中 FOT-Slump Std DB 应为 FOT-KafuNagomi Std B)*
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.08.33.jpg)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%884.08.33.jpg)
 
 ## IINA 播放画面
 
 ***DFGKanTeiRyu-XB + 方正少儿_GBK***
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.03.jpg)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.03.jpg)
 
 ***DFGKanTeiRyu-XB + 方正少儿_GBK PostScript***
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.15.jpg)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.15.jpg)
 
 ***FOT-Slump Std DB + 方正准圆_GBK***
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.27.jpg)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.27.jpg)
 
 ***FOT-Slump Std DB + 方正准圆_GBK PostScript***
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.33.jpg)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.33.jpg)
 
 ***FOT-KafuNagomi Std B + 文鼎奈谷米POP体_B*** 　*(文件名中 FOT-Slump Std DB 应为 FOT-KafuNagomi Std B)*
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.54.jpg)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.55.54.jpg)
 
 ***FOT-KafuNagomi Std B + 文鼎奈谷米POP体_B PostScript***　*(文件名中 FOT-Slump Std DB 应为 FOT-KafuNagomi Std B)*
 
-![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/Aegisub/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.56.02.jpg)
+![](https://raw.githubusercontent.com/kysdm/ASS_FontsName/master/img/x-%E6%88%AA%E5%B1%8F2020-07-14%20%E4%B8%8B%E5%8D%883.56.02.jpg)
 
 
 ## ASS 字幕内容
